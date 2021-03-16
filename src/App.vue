@@ -1,31 +1,29 @@
+<style scoped>
+  div.app {
+    max-width:1000px;
+    margin:auto;
+    font-family: sans-serif;
+  }
+</style>
+
 <template>
-  <v-app>
-    <v-app-bar
-      app
-      color="primary"
-      dark
-    >
-      <v-app-bar-title>iScout Recruiting</v-app-bar-title>
+  <div class="app">
+    <NavBar />
 
-      <v-spacer></v-spacer>
-
-      <v-btn href="https://github.com/HazardScout/iScout-Recruiting-Project" target="_blank">
-        <span class="mr-2">GitHub</span>
-        <v-icon>mdi-open-in-new</v-icon>
-      </v-btn>
-    </v-app-bar>
+    <br />
 
     <Main />
-
-  </v-app>
+  </div>
 </template>
 
 <script>
+import NavBar from './components/NavBar';
 import Main from './components/Main';
 
 export default {
   components: {
     Main,
+    NavBar,
   },
 };
 </script>

@@ -1,12 +1,8 @@
 <template>
-  <v-main>
-    <v-container>
-
-      <h3>...todo...</h3>
-      <p>Check out the readme file for instructions.</p>
-
-    </v-container>
-  </v-main>
+  <div>
+    <h4>...todo...</h4>
+    <p>Check out the readme file for instructions.</p>
+  </div>
 </template>
 
 <script>

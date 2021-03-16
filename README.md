@@ -1,14 +1,13 @@
 # iScout Recruiting Project
 
 This is a small coding project for iScout software developer candidates. It is
-a pre-configured [Vue](https://vuejs.org/v2/guide/) and
-[Vuetify](https://vuetifyjs.com/en/introduction/why-vuetify/#guide) environment.
+a pre-configured website using [Vue](https://vuejs.org/v2/guide/).
 You'll create a simple page then submit a pull-request when you're ready.
 
 
 ## Getting Started
 
-First, make sure you can run this project on your machine. Node 12.X or later
+First, make sure you can run this on your machine. Node 12.X or later
 is recommended.
 
 ```
@@ -21,6 +20,15 @@ npm run dev
 You should now be able to view the application at: http://localhost:8080
 
 The project should automatically hot-reload as you make changes.
+
+
+## What Matters?
+
+Styles/colors are not important. Here's what is:
+
+ * Well-organized code
+ * Well-named variables, functions, arguments, etc
+ * Clean & easy user-interfaces
 
 
 ## Project Requirements
@@ -53,6 +61,17 @@ simplicity, do not worry about error handling:
 
     // Reset (if desired)
     await repo.reset();
+
+
+## Extras
+
+Don't spend a ton of time on this project, but here are some bonus
+elements if you're feeling crazy.
+
+   * Feel free to pull in libraries like Bootstrap or Vuetify. But
+     don't spend too much time on styles.
+   * Try using a modal dialog for the new/edit functionality.
+
 
 
 ## Submitting Your Project
