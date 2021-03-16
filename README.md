@@ -1,10 +1,9 @@
 # iScout Recruiting Project
 
 This is a small coding project for iScout software developer candidates. It is
-a pre-configured [https://vuejs.org/v2/guide/](Vue) and
-[https://vuetifyjs.com/en/introduction/why-vuetify/#guide](Vuetify) environment.
-You'll be asked to create a simple page then submit a pull-request when you're
-ready.
+a pre-configured [Vue](https://vuejs.org/v2/guide/) and
+[Vuetify](https://vuetifyjs.com/en/introduction/why-vuetify/#guide) environment.
+You'll create a simple page then submit a pull-request when you're ready.
 
 
 ## Getting Started
@@ -30,12 +29,13 @@ Nyan Cat will be performing at your house. You can only fit 20 people
 so this app will keep track of who is coming.
 
 Here are the features:
- • For each guest, you'll track email address and number of tickets
- • You don't need to track anything else (like name, etc)
- • Show a table of all the guests
- • There should be a way to add, edit, and delete guests
- • When editing a guest, the user should be able to cancel
- • Show the total number of guests somewhere
+
+   * For each guest, you'll track email address and number of tickets
+   * You don't need to track anything else (like name, etc)
+   * Show a table of all the guests
+   * There should be a way to add, edit, and delete guests
+   * When editing a guest, the user should be able to cancel
+   * Show the total number of guests somewhere
 
 For your convenience, use the Guest Repository to load/save data. For
 simplicity, do not worry about error handling:
@@ -58,6 +58,7 @@ simplicity, do not worry about error handling:
 ## Submitting Your Project
 
 Once you're ready, submit a pull request of your code:
+
 https://github.com/HazardScout/iScout-Recruiting-Project/pulls
 
 We should automatically get a notification from GitHub, but feel
