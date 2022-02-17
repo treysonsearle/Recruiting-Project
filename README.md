@@ -1,6 +1,6 @@
 # iScout Recruiting Project
 
-This is a small coding project for iScout software developer candidates. It is
+This is a small coding project for KPA EHS software developer candidates. It is
 a pre-configured website using [Vue](https://vuejs.org/v2/guide/).
 You'll create a simple page then submit a pull-request when you're ready.
 
