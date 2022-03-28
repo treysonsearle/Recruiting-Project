@@ -11,7 +11,7 @@ First, make sure you can run this on your machine. Node 12.X or later
 is recommended.
 
 ```
-git clone git@github.com:HazardScout/iScout-Recruiting-Project.git kpaehs
+git clone git@github.com:HazardScout/Recruiting-Project.git kpaehs
 cd kpaehs
 npm install
 npm run dev
@@ -78,7 +78,7 @@ elements if you're feeling crazy.
 
 Once you're ready, submit a pull request of your code:
 
-https://github.com/HazardScout/iScout-Recruiting-Project/pulls
+https://github.com/HazardScout/Recruiting-Project/pulls
 
 We should automatically get a notification from GitHub, but feel
 free to message us when you've submitted the PR.
