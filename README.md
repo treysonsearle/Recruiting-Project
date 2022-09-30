@@ -13,7 +13,7 @@ is recommended.
 ```
 git clone git@github.com:HazardScout/Recruiting-Project.git kpaehs
 cd kpaehs
-npm install
+npm ci
 npm run dev
 ```
 
