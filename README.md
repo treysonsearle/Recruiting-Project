@@ -29,6 +29,7 @@ Styles/colors are not important. Here's what is:
  * Well-organized code
  * Well-named variables, functions, arguments, etc
  * Clean & easy user-interfaces
+ * Bug free
 
 
 ## Project Requirements
