@@ -69,7 +69,7 @@ simplicity, do not worry about error handling:
 Don't spend a ton of time on this project, but here are some bonus
 elements if you're feeling crazy.
 
-   * Feel free to pull in libraries like Bootstrap or Vuetify. But
+   * Feel free to pull in libraries like Tailwindcss, Bootstrap or Vuetify. But
      don't spend too much time on styles.
    * Try using a modal dialog for the new/edit functionality.
 
