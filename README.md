@@ -11,7 +11,7 @@ First, make sure you can run this on your machine. Node 12.X or later
 is recommended.
 
 ```
-git clone git@github.com:HazardScout/Recruiting-Project.git kpaehs
+git clone https://github.com/HazardScout/Recruiting-Project.git kpaehs
 cd kpaehs
 npm ci
 npm run dev
