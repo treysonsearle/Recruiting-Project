@@ -1,15 +1,18 @@
 <template>
   <div>
-    <h4>...todo...</h4>
-    <p>Check out the readme file for instructions.</p>
+    <GuestTable/>
   </div>
 </template>
 
 <script>
+  import GuestTable from './GuestTable.vue'
   // eslint-disable-next-line no-unused-vars
   const GuestRepository = require('../guest-repository');
 
   export default {
+    components: {
+      GuestTable
+    },
     data: () => {
       return { };
     },
